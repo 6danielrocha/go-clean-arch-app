@@ -10,9 +10,9 @@ go run main.go
 
 # Basic usage examples
 
-http://localhost:8000/users
-http://localhost:8000/user?id=1
-http://localhost:8000/posts
+* http://localhost:8000/users
+* http://localhost:8000/user?id=1
+* http://localhost:8000/posts
 
 # StoryTelling Docs Style
 
