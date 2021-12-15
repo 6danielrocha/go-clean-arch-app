@@ -1,0 +1,26 @@
+2021/12/09 11:33:20 open .env: no such file or directory
+2021/12/09 11:33:20 invalid argument
+2021/12/09 11:33:20 sql: unknown driver "" (forgotten import?)
+2021/12/09 11:35:18 open github.com/bmf-san/go-clean-architecture-web-application-boilerplate/app/local.env: no such file or directory
+2021/12/09 11:35:18 invalid argument
+2021/12/09 11:35:18 sql: unknown driver "" (forgotten import?)
+2021/12/09 11:43:35 open ../local.env: no such file or directory
+2021/12/09 11:43:36 invalid argument
+2021/12/09 11:43:36 sql: unknown driver "" (forgotten import?)
+2021/12/09 12:04:08 missing "=" after "daniel:123456@tcp(localhost:5432)/go_api_boilerplate" in connection info string"
+2021/12/09 12:04:08 listen tcp :5432: bind: address already in use
+2021/12/09 12:47:57 missing "=" after "daniel:123456@tcp(localhost:5432)/go_api_boilerplate" in connection info string"
+2021/12/09 12:47:57 listen tcp :5432: bind: address already in use
+2021/12/09 12:48:37 missing "=" after "daniel:123456@tcp(localhost:5432)/go_api_boilerplate" in connection info string"
+2021/12/09 12:48:37 listen tcp :5432: bind: address already in use
+2021/12/09 12:54:23 dial tcp: lookup tcp/%!d(string=5432): Servname not supported for ai_socktype
+2021/12/09 12:54:23 listen tcp :5432: bind: address already in use
+2021/12/09 12:59:15 listen tcp :5432: bind: address already in use
+2021/12/09 13:03:13 dial tcp 127.0.0.1:5432: connect: connection refused
+2021/12/09 13:05:32 listen tcp :5432: bind: address already in use
+2021/12/09 13:21:02 pq: password authentication failed for user "postgres"
+2021/12/13 12:44:10 sql: Rows are closed
+2021/12/14 11:39:08 pq: password authentication failed for user "daniel"
+2021/12/14 11:49:53 pq: syntax error at end of input
+2021/12/14 12:19:33 pq: syntax error at end of input
+2021/12/14 12:29:44 pq: syntax error at end of input
